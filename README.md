@@ -29,7 +29,7 @@ export default {
 
 The application currently translate English to Russian, Spanish, French, German, Arabic, Italian, Hebrew and Swedish.
 
-I followed this <a href="https://www.youtube.com/watch?v=DBADrF0C2ls">video</a> as a guide as I'm trying to get more familiar with the Vue.js framework.
+I followed this <a href="https://www.youtube.com/watch?v=DBADrF0C2ls">video</a> as a guide as I'm trying to get more familiar with the Vue.js framework. All styling was done using <a href="https://bootswatch.com/flatly/"> Bootswatch's Flatly Theme</a>.
 
 > A Vue.js project
 
